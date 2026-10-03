@@ -2,7 +2,7 @@
 
 ## Project
 
-`1panel-skills` is an Apache-2.0 collection of 8 original Agent Skills for bounded 1Panel operations. Source package version: 0.1.0, GitHub source publication; tagged release pending. It does not bundle or start an MCP server. Official 1Panel and mcp-1panel remain separate GPL-3.0 projects.
+`1panel-skills` is an Apache-2.0 collection of 8 original Agent Skills for bounded 1Panel operations. Source package version: 0.1.1, GitHub source publication; release v0.1.1. It does not bundle or start an MCP server. Official 1Panel and mcp-1panel remain separate GPL-3.0 projects.
 
 ## Skill ownership
 

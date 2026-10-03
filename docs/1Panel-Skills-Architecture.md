@@ -1,6 +1,6 @@
 # 1Panel Skills Architecture
 
-Scope: reusable source instructions for an existing panel, version 0.1.0, GitHub source repository. This is not the 1Panel server architecture or a claim of production-panel acceptance.
+Scope: reusable source instructions for an existing panel, version 0.1.1, GitHub source repository. This is not the 1Panel server architecture or a claim of production-panel acceptance.
 
 ## Drivers and ownership
 

@@ -11,7 +11,7 @@
 | 属性 | 当前事实 |
 |---|---|
 | 技能包 | `1panel-skills`，8 个已登记技能 |
-| 版本与状态 | 0.1.0，源码托管于 GitHub，版本 Release 待发布 |
+| 版本与状态 | 0.1.1，源码托管于 GitHub，固定版本 v0.1.1 |
 | 技能格式 | SKILL.md，包含名称、触发描述和许可证 |
 | Codex 可选配置 | agents/openai.yaml，统一英文显示名称 |
 | 已检查的官方 MCP | v1.0.0，commit `a12b2d4ddae90f6b210b73b89ba2bc4b572dcd0c` |

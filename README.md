@@ -11,7 +11,7 @@ English | [简体中文](README.zh-CN.md) · [Usage](docs/usage.md) · [Architec
 | Item | Value |
 |---|---|
 | Package | `1panel-skills`, 8 registered skills |
-| Version/status | 0.1.0, source on GitHub; tagged release pending |
+| Version/status | 0.1.1, source on GitHub; release v0.1.1 |
 | Skill format | SKILL.md with name, trigger description and license |
 | Optional Codex metadata | agents/openai.yaml, English display names |
 | Inspected MCP | v1.0.0, commit `a12b2d4ddae90f6b210b73b89ba2bc4b572dcd0c` |
