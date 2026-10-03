@@ -1,0 +1,17 @@
+# Local environments and generated output only; package JSON and instructions stay versioned.
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+dist/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+connection.json
+credentials.json
+logs/
+*.log
+.DS_Store
+Thumbs.db
+*.tmp

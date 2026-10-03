@@ -1,0 +1,19 @@
+{
+  "name": "1panel-skills",
+  "version": "0.1.0",
+  "description": "Bounded skills for the official 1Panel MCP",
+  "author": {
+    "name": "Full Stack Skills / PartMe.AI"
+  },
+  "license": "Apache-2.0",
+  "skills": [
+    "./skills/1panel-use",
+    "./skills/1panel-setup",
+    "./skills/1panel-system",
+    "./skills/1panel-websites",
+    "./skills/1panel-certificates",
+    "./skills/1panel-databases",
+    "./skills/1panel-apps",
+    "./skills/1panel-security-audit"
+  ]
+}
